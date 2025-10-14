@@ -38,7 +38,7 @@ Implantação de FreeIPA para autenticação gráfica em estações Ubuntu, com 
 Configuração de túneis IPsec entre clientes e operadoras, garantindo comunicação segura e estável para sistemas VoIP. Essa atuação foi essencial para manter a integridade dos dados e a continuidade dos serviços de voz.
 
 ### 🔹 Monitoramento Ativo com Zabbix
-Implantação completa do Zabbix Server para monitoramento de servidores próprios e de clientes. A solução permitiu ações preventivas com base em alertas e dashboards, aumentando a disponibilidade dos serviços e permitindo que a equipe técnica agisse antes que incidentes ocorressem.
+Implantação completa do Zabbix Server para monitoramento de servidores próprios e de clientes. A solução permitiu ações preventivas com base em alertas e dashboards, aumentando a disponibilidade dos serviços e permitindo que a equipe técnica seja acionada antes que incidentes ocorram.
 
 ---
 
