@@ -29,13 +29,16 @@ Profissional com sólida experiência em infraestrutura de redes e servidores Li
 ## 🧪 Projetos em Destaque
 
 ### 🔹 Infraestrutura de Bilhetagem VoIP com Docker
-Ambiente escalável com Asterisk, MySQL e aplicação web para bilhetagem de chamadas. Utiliza Docker Swarm, rede interna entre containers, persistência de dados e automação com Docker Compose.
+Ambiente escalável com Asterisk, MySQL e aplicação web para bilhetagem de chamadas. Utiliza Docker Swarm, rede interna entre containers, persistência de dados e automação com Docker Compose. A reestruturação trouxe escalabilidade, isolamento de falhas, facilidade de manutenção e melhor aproveitamento de recursos.
 
 ### 🔹 Autenticação Centralizada com LDAP
-Implantação de FreeIPA para autenticação gráfica em estações Ubuntu, com grupos de acesso diferenciados e automação de criação/desativação de usuários.
+Implantação de FreeIPA para autenticação gráfica em estações Ubuntu, com grupos de acesso diferenciados e automação de criação/desativação de usuários. A solução aumentou a segurança, reduziu erros operacionais e trouxe agilidade à gestão de identidades.
 
 ### 🔹 VPN IPsec com Operadoras VoIP
-Configuração de túneis IPsec entre clientes e operadoras, garantindo comunicação segura e estável para sistemas de voz.
+Configuração de túneis IPsec entre clientes e operadoras, garantindo comunicação segura e estável para sistemas VoIP. Essa atuação foi essencial para manter a integridade dos dados e a continuidade dos serviços de voz.
+
+### 🔹 Monitoramento Ativo com Zabbix
+Implantação completa do Zabbix Server para monitoramento de servidores próprios e de clientes. A solução permitiu ações preventivas com base em alertas e dashboards, aumentando a disponibilidade dos serviços e permitindo que a equipe técnica agisse antes que incidentes ocorressem.
 
 ---
 
