@@ -11,8 +11,6 @@
 
 Profissional com sólida experiência em infraestrutura de redes e servidores Linux, atualmente em transição para a área de cibersegurança. Tenho atuado na implementação de ambientes seguros com firewall pfSense, containers Docker, telefonia VoIP com Asterisk e monitoramento com Zabbix.
 
-Busco oportunidades como **Analista de Segurança da Informação**, onde possa aplicar meus conhecimentos técnicos e contribuir para a proteção dos ativos digitais da organização.
-
 ---
 
 ## 🛠️ Competências Técnicas
