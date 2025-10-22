@@ -50,6 +50,7 @@ Implantação completa do Zabbix Server para monitoramento de servidores própri
 - Perícia Digital – ADF Digital Forensics Academy (2024)
 - Administração de Firewall pfSense – Udemy (2024)
 - Monitoramento com Zabbix – Udemy (2024)
+- Segurança cibernética - Sisnema (2024) 
 
 ---
 
