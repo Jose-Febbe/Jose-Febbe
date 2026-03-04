@@ -16,7 +16,6 @@ Profissional com sólida experiência em infraestrutura de redes e servidores Li
 ## 🛠️ Competências Técnicas
 
 - Administração de sistemas Linux
-- Docker, Docker Compose e Docker Swarm
 - Telefonia VoIP com Asterisk (AGI, integração com MySQL)
 - Firewall pfSense (VPN IPsec/OpenVPN, HAProxy, NAT)
 - Monitoramento com Zabbix e Grafana
@@ -29,7 +28,7 @@ Profissional com sólida experiência em infraestrutura de redes e servidores Li
 ## 🧪 Projetos em Destaque
 
 ### 🔹 Infraestrutura de Bilhetagem VoIP com Docker
-Ambiente escalável com Asterisk, MySQL e aplicação web para bilhetagem de chamadas. Utiliza Docker Swarm, rede interna entre containers, persistência de dados e automação com Docker Compose. A reestruturação trouxe escalabilidade, isolamento de falhas, facilidade de manutenção e melhor aproveitamento de recursos.
+Ambiente escalável com Asterisk, MySQL e aplicação web para bilhetagem de chamadas. Utiliza Docker Swarm, rede interna entre containers, persistência de dados e automação com Docker Compose. A reestruturação trouxe escalabilidade, isolamento de falhas, facilidade de manutenção e melhor aproveitamento de recursos (realizado para estudo de forma independente).
 
 ### 🔹 Autenticação Centralizada com LDAP
 Implantação de FreeIPA para autenticação gráfica em estações Ubuntu, com grupos de acesso diferenciados e automação de criação/desativação de usuários. A solução aumentou a segurança, reduziu erros operacionais e trouxe agilidade à gestão de identidades.
@@ -46,7 +45,6 @@ Implantação completa do Zabbix Server para monitoramento de servidores própri
 
 - Bacharelado em Sistemas de Informação – Faculdades Dom Bosco (2024)
 - Técnico em Redes de Computadores – SENAI (2016)
-- AZ-700 – Microsoft Azure Networking Solutions (2025)
 - Perícia Digital – ADF Digital Forensics Academy (2024)
 - Administração de Firewall pfSense – Udemy (2024)
 - Monitoramento com Zabbix – Udemy (2024)
