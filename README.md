@@ -42,8 +42,8 @@ Implantação completa do Zabbix Server para monitoramento de servidores própri
 ---
 
 ## 🎓 Formação e Certificações
-
-- Bacharelado em Sistemas de Informação – Faculdades Dom Bosco (2024)
+- Pós Graduação em segurança da informação - UniRitter (previsão de conclução 12/2026)
+- Bacharelado em Sistemas de Informação – Faculdades Dom Bosco (12/2023)
 - Técnico em Redes de Computadores – SENAI (2016)
 - Perícia Digital – ADF Digital Forensics Academy (2024)
 - Administração de Firewall pfSense – Udemy (2024)
